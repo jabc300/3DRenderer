@@ -15,3 +15,10 @@ The 3D graphics were created from scratch using mathematics such as Linear Algeb
 
 3D Renderer created in the course "3D Computer Graphics Programming" by Pikuma
 https://pikuma.com/courses/learn-3d-computer-graphics-programming
+
+Results:
+
+![](Images/Jets1.png)
+![](Images/Jets2.png)
+![](Images/Jets3.png)
+![](Images/Jets4.png)
