@@ -18,7 +18,7 @@ https://pikuma.com/courses/learn-3d-computer-graphics-programming
 
 Results:
 
-![](Images/Jets1.png)
-![](Images/Jets2.png)
-![](Images/Jets3.png)
-![](Images/Jets4.png)
+![](images/Jets1.png)
+![](images/Jets2.png)
+![](images/Jets3.png)
+![](images/Jets4.png)
