@@ -1,5 +1,7 @@
 # 3D Renderer
 
+Created in the OS Ubuntu 23.10 using the Text Editor VIM 9.0 and compiled with GCC 13.2.0.
+
 Helpful Libraries:
 - SDL2 2.28.3
 - uPNG
